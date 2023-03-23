@@ -78,6 +78,12 @@ $(function () {
       repo: "https://github.com/junnoiri/cis-376-CHARLIE-lab",
       author: "Junnosuke Noiri",
     },
+    {
+      title: "#14",
+      link: "https://rmfoxtrot.catharsis11867.repl.co/",
+      repo: "https://github.com/Catharsis11867/RM_Foxtrot",
+      author: "Robert Marcum",
+    },
   ];
   // iterate over the JSON array
   $.each(games, function (index, item) {
